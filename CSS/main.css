@@ -1,0 +1,237 @@
+* {
+  font-family: 'josefin sans';
+}
+
+.nav {
+  padding-bottom: 20px;
+}
+
+.nav i {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding-top: 10px;
+}
+
+.nav ul {
+  display: inline-block;
+  float: right;
+  margin-right: 5%;
+  margin-top: 20px;
+  text-decoration: none;
+
+}
+
+div.color {
+  margin-top: 0;
+  display: inline-block;
+}
+
+.color p {
+  margin-top: 0;
+}
+
+.nav ul li {
+  display: inline-block;
+  padding: 10px 30px;
+
+}
+
+.nav a {
+ text-decoration: none;
+ color: black;
+ padding: 10px;
+}
+
+.nav a:hover {
+  background-color: black;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.slide {
+  background-image: url(../img/backdrop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+}
+
+
+.slideshow h1 {
+  display: inline-block;
+  font-size: 55px;
+  padding: 0 20px;
+  margin-top: 10px 10px;
+  color: #fff;
+  font-family: 'fjalla one';
+}
+
+.slideshow img {
+ display: inline-block;
+ width: 400px;
+ height: 250px;
+ margin: 20px 50px;
+
+}
+
+.design {
+  text-align: center;
+}
+
+.ipad {
+  text-align: center;
+  display: inline-block;
+  padding-bottom: 40px;
+  padding: 10px 50px;
+}
+
+.lamp {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 50px;
+}
+
+.ipad img {
+  width: 200px;
+  height: 100px;
+}
+
+.lamp img {
+  width: 100px;
+  height: 120px;
+}
+
+.note {
+  display: inline-block;
+  text-align: center;
+  padding: 10px 50px;
+}
+
+.note img {
+  width: 100px;
+  height: 120px;
+}
+
+.cartoons {
+  background-color: #22BA7D;
+  height: 800px;
+  text-align: center;
+}
+
+.recent {
+  text-align: center;
+  padding-top: 20px;
+  display: inline-block;
+}
+
+.recent p {
+  margin-bottom: 60px;
+}
+
+.recent li {
+  display: inline-block;
+}
+
+.recent a {
+  text-decoration: none;
+  color: black;
+  margin: 20px 20px;
+  padding: 10px 25px;
+}
+
+.recent a:hover {
+  border: 1px solid #fff;
+  color: #fff;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.cartoon {
+  display: inline-block;
+}
+
+.cartoon img {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 20px 40px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+.cartoons button {
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  margin-left: 700px;
+  padding: 10px 20px;
+  background: none;
+  display: block;
+
+}
+
+
+.template {
+  display: inline-block;
+
+}
+
+section.template {
+
+}
+
+.check {
+  display: inline-block;
+}
+
+.check img {
+  width: 120px;
+  height: 150px;
+}
+
+.layer {
+  display: inline-block;
+}
+
+.layer button {
+  padding: 10px 20px;
+  border: 1px solid black;
+  background-color: #22BA7D;
+  border-radius: 5px;
+}
+
+.layer2 button {
+  padding: 10px 20px;
+  border: 1px solid black;
+  background-color: #22BA7D;
+  border-radius: 5px;
+}
+
+hr {
+  width: 50%;
+}
+
+.check2 {
+  display: inline-block;
+  text-align: center;
+}
+
+.check2 img {
+  width: 120px;
+  height: 150px;
+
+}
+
+.layer2 {
+  display: inline-block;
+  text-align: right;
+}
+
+
+.layer h3 {
+
+}
+
+.layer p {
+}
