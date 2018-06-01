@@ -174,39 +174,26 @@ div.color {
 
 .template {
   display: inline-block;
+  margin: 10px 20%;
 
 }
 
-section.template {
-
-}
 
 .check {
   display: inline-block;
 }
 
 .check img {
-  width: 120px;
-  height: 150px;
+  width: 220px;
+  height: 200px;
 }
+
 
 .layer {
   display: inline-block;
+  text-align: left;
 }
 
-.layer button {
-  padding: 10px 20px;
-  border: 1px solid black;
-  background-color: #22BA7D;
-  border-radius: 5px;
-}
-
-.layer2 button {
-  padding: 10px 20px;
-  border: 1px solid black;
-  background-color: #22BA7D;
-  border-radius: 5px;
-}
 
 hr {
   width: 50%;
@@ -218,20 +205,52 @@ hr {
 }
 
 .check2 img {
-  width: 120px;
-  height: 150px;
+  width: 220px;
+  height: 200px;
 
 }
 
 .layer2 {
   display: inline-block;
-  text-align: right;
+  text-align: left;
 }
 
+.layer2 button {
+  float: left;
+}
 
-.layer h3 {
+.meet h2 {
+  text-align: center;
+  padding-top: 50px;
+  color: #fff;
 
 }
 
-.layer p {
+.meet p  {
+  color: #fff;
+}
+.teams {
+    display: inline-block;
+}
+
+.team {
+  display: inline-block;
+  background-color: #fff;
+  margin: 10px 50px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+
+.team img {
+  width: 150px;
+  height: 200px;
+  display: inline-block;
+  margin: 20px 40px;
+}
+
+.meet {
+    background-color: #C177C9;
+    height: 800px;
+    text-align: center;
+
 }
